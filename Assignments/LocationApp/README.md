@@ -30,3 +30,11 @@ To run this app locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/AnvithaYalamanchili/LocationApp.git
+2. Navigate to the project directory:
+   ```sh
+   cd LocationApp
+3.Install dependencies:
+   ```sh
+   npm install
+
+
