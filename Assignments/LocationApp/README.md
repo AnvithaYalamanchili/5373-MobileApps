@@ -2,7 +2,7 @@
 The goal of the mobile app LocationApp is to give users a smooth registration, login, and interaction process while utilizing a variety of capabilities like location mapping, chat, searching, and photo shooting. A thorough description of the features of the app can be found below:
 
 
-#Features
+####Features
 1.Registration Page:
 Allows new users to create an account by providing their First name,Last Name,Email,password and mobile number 
 2.Login Page:
