@@ -1,24 +1,24 @@
 # LocationApp
 
-LocationApp is a mobile application designed to provide users with a seamless experience for registering, logging in, and interacting with various features such as location mapping, chatting, searching, and taking photos. Below is a detailed breakdown of the app's functionalities:
+The goal of the mobile app LocationApp is to give users a smooth registration, login, and interaction process while utilizing a variety of capabilities like location mapping, chat, searching, and photo shooting. A thorough description of the features of the app can be found below:
 
 ## Features
 
 1. **Registration Page**:
-   - Allows new users to create an account by providing their first name, last name, email, and password.
+   - Allows new users to create an account by providing their first name, last name, email,password and mobile number.
    
 2. **Login Page**:
-   - Authenticates existing users by validating their email and password.
+   - Authenticates existing users by validating their firstNmae and password.
 
 3. **Location Page**:
    - Displays a map with 5 pins.
-   - Clicking on a pin reveals the user's first name, last name, and timestamp of the location.
+   - Clicking on a pin reveals the user's first name, last name, and timestamp.
 
 4. **Chat Page**:
-   - Enables users to send and receive messages in real-time.
+   - Enables users to send messages.
 
 5. **Search Page**:
-   - Allows users to search for other users or specific content within the app.
+   - Allows users to search for the particular location.
 
 6. **Camera Page**:
    - Provides functionality to capture photos using the device's camera.
