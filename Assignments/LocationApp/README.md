@@ -33,7 +33,7 @@ To run this app locally, follow these steps:
 2. Navigate to the project directory:
    ```sh
    cd LocationApp
-3.Install dependencies:
+3. Install dependencies:
    ```sh
    npm install
 
