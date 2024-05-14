@@ -52,9 +52,7 @@ const MapPage = () => {
   };
 
   const navigateToUserProfile = (user) => {
-    // Navigate to the user profile page with the user information
-    // For example:
-    // navigation.navigate('UserProfilePage', { userId: user.id });
+   
   };
 
   return (
@@ -76,7 +74,7 @@ const MapPage = () => {
               longitude: userLocation.coords.longitude,
             }}
             title="Your Location"
-            pinColor="blue" // Change pin color to differentiate from other markers
+            pinColor="blue" 
           />
         )}
 
