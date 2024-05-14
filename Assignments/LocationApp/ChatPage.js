@@ -7,7 +7,7 @@ import EmojiSelector from 'react-native-emoji-selector';
 const ChatPage = () => {
   const [message, setMessage] = useState('');
   const [messages, setMessages] = useState([]);
-  const [showEmojiModal, setShowEmojiModal] = useState(false); // State to control emoji modal visibility
+  const [showEmojiModal, setShowEmojiModal] = useState(false); 
   const navigation = useNavigation();
 
   const sendMessage = () => {
