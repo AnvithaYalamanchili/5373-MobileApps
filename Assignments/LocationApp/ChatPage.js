@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
   },
   content: {
-    marginTop: 50, // Adjusted marginTop to account for the menu bar
+    marginTop: 50, 
     flex: 1,
   },
   messageContainer: {
@@ -127,14 +127,14 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     paddingVertical: 10,
-    backgroundColor: 'rgba(255, 255, 255, 0.3)', // Background color with transparency
-    borderRadius: 20, // Rounded corners
-    paddingHorizontal: 15, // Adjusted padding
+    backgroundColor: 'rgba(255, 255, 255, 0.3)', 
+    borderRadius: 20,
+    paddingHorizontal: 15, 
   },
   input: {
     flex: 1,
     color: 'white',
-    marginLeft: 10, // Adjusted margin
+    marginLeft: 10, 
   },
   smileyIcon: {
     marginRight: 10,
@@ -143,7 +143,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'rgba(0, 0, 0, 0.5)', // Semi-transparent background
+    backgroundColor: 'rgba(0, 0, 0, 0.5)', 
   },
   modalContent: {
     backgroundColor: 'white',
