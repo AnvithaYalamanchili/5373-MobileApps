@@ -117,19 +117,19 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
   },
   input: {
-    width: '70%', // Adjust width as needed
+    width: '70%', 
     borderWidth: 1,
     borderColor: 'black',
-    borderRadius: 20, // Adjust border radius as needed
+    borderRadius: 20, 
     padding: 10,
     marginBottom: 10,
-    backgroundColor: 'rgba(255, 255, 255, 0.7)', // Semi-transparent white background
-    color: 'black', // Text color
-    fontSize: 16, // Font size
+    backgroundColor: 'rgba(255, 255, 255, 0.7)', 
+    color: 'black', 
+    fontSize: 16,
   },
   map: {
     width: '100%',
-    height: Dimensions.get('window').height - 50, // Adjust for search input height
+    height: Dimensions.get('window').height - 50, 
   },
   searchButton: {
     backgroundColor: '#007AFF',
