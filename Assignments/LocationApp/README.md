@@ -40,5 +40,5 @@ To run this app locally, follow these steps:
    ```sh
    npm start
 ## Screenshots
-<img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/LandinPage.jpg" height="300" width="250">
+<img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/LandinPage.jpg" height="400" width="250">
 
