@@ -43,7 +43,7 @@ To run this app locally, follow these steps:
 1. Landing Page 
 <img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/LandinPage.jpg" height="400" width="250">
 2. RegistrationPage
-<img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/RegistrationPage.jpg" height="400" width="250">
+<img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/RegistrationPage.jpg" height="500" width="250">
 
    
 
