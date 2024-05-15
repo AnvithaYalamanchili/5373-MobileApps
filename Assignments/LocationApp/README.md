@@ -59,7 +59,12 @@ To run this app locally, follow these steps:
 
 <img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/SearchPage.jpg" height="500" width="250">
 
+6. ChatPage
 
+<img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/ChatPage.jpg" height="500" width="250">
+
+7.CameraPage
+<img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/CameraPage.jpg" height="500" width="250">
 
    
 
