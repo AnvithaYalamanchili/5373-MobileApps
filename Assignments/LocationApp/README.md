@@ -55,6 +55,11 @@ To run this app locally, follow these steps:
 
 <img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/LocationPage.jpg" height="500" width="250">
 
+5. SearchPage
+
+<img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/SearchPage.jpg" height="500" width="250">
+
+
 
    
 
