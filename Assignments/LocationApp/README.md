@@ -67,5 +67,8 @@ To run this app locally, follow these steps:
 
 <img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/CameraPage.jpg" height="500" width="250">
 
+<img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/CameraPageT.jpg" height="500" width="250">
+
+
    
 
