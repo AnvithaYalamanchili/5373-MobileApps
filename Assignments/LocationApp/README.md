@@ -36,3 +36,6 @@ To run this app locally, follow these steps:
 3. Install dependencies:
    ```sh
    npm install
+4. Start the development server:
+   ```sh
+   npm start
