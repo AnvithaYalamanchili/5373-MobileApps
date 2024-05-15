@@ -69,10 +69,10 @@ To run this app locally, follow these steps:
 
 <img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/CameraPageT.jpg" height="500" width="250">
 
-##Technologies Used:
-Frontend:React Native
-BackendApi:FastApi
-Database:MongoDB
+## Technologies Used
 
-   
+- **Frontend**: React Native
+- **Backend API**: FastAPI
+- **Database**: MongoDB
+
 
