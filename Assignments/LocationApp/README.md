@@ -74,5 +74,6 @@ To run this app locally, follow these steps:
 - **Frontend**: React Native
 - **Backend API**: FastAPI
 - **Database**: MongoDB
+- **Development Environment**: Android Studio
 
 
