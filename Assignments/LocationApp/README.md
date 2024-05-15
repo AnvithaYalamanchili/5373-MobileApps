@@ -53,7 +53,7 @@ To run this app locally, follow these steps:
 
 4. LocationPage
 
-<img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/LocationPagePage.jpg" height="500" width="250">
+<img src="https://github.com/AnvithaYalamanchili/5373-MobileApps/blob/main/Assignments/LocationApp/LocationPage.jpg" height="500" width="250">
 
 
    
